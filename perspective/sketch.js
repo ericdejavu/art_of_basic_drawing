@@ -1,3 +1,4 @@
+// refer http://jackieliu.win/Tech/cjw7jxod6003lidkf13f3ukrp/
 var slist = [];
 
 
